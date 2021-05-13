@@ -1,0 +1,12 @@
+.App{
+   margin-left: 200px;
+}
+.error{
+   color: red;
+}
+.errorInput{
+   border-color: red;
+}
+.filterTasks{
+   background-color: darkgreen;
+}
